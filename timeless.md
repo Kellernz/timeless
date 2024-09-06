@@ -87,3 +87,15 @@ No fluxo de uso do programa o usuário faria um cadastro e logo após poderia es
 
 | desenho       | BLOB        | Desenho enviado (opcional)         |
 | enviado_em    | DATETIME    | Data de envio                      |
+
+
+### Cronograma de desenvolvimento do projeto
+
+| Fase                       |Descrição                                   | Tempo Estimado       |
+|----------------------------|--------------------------------------------|----------------------|
+| Planejamento               | Definição de requisitos e arquitetura      | 2 semanas            |
+| Desenvolvimento do Backend | Implementação das APIs e banco de dados    | 3 semanas            |
+| Desenvolvimento do Frontend| Implementação do frontend e integração     | 3 semanas            |
+| Testes                     | Testes funcionais e ajustes                | 2 semanas            |
+| Implantação                | Deploy da aplicação em ambiente de produção| 2 semanas            |
+
